@@ -34,6 +34,11 @@
 <img src=""/>
 
 ---
+### Market Basket Analysis using Python
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/likhitha-musku/Data-Mining/blob/main/Apriori.ipynb)
 
+---
+### Portfolio Optimization for ETF stocks and Bond using Python
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/likhitha-musku/Portfolio_Optimization/blob/main/Portfolio_Optimization_Project.ipynb)
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
