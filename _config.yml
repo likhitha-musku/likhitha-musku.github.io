@@ -1,11 +1,11 @@
 title: Likhitha Musku # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  2021 Masters Graduate in Data Science. Proficient in data cleaning, data pre-processing, data analysis, visualization and Machine Learning. 
   <br><br>
-  Second description 
+  Eager to learn and develop my skills in Data Science career.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/likhitha-musku-42379912b/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
