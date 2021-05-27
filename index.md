@@ -6,13 +6,23 @@
 <div style="text-align: justify">The goal is to identify the layout of a given building to check which units are adjacent/nearby each other and determine the temperature correlation between them if they are situated nearby.
 </div>
 <br>
+<div style="text-align: justify">Heatmap showing temperature correlation matrix of VAVs</div>
+<img src="images/heatmap_VAV_corr.jpg?raw=true"/>
+<br>
+<div style="text-align: justify">Integration of t-SNE plot with NetworkX plot</div>
 <img src="images/VAV.jpg?raw=true"/>
 
 <div style="text-align: justify">The data is from the Systems Engineering Building (SEB), https://bbd.labworks.org/, a medium size commercial building at PNNL. It contains multiple attributes related to energy consumption, with minute-level data, starting from 11/30/2018 5:09:00 PM upto 5/6/2020  4:59:00 PM, thus a total of 533,031 records. This dataset contains the information related to multiple AHU (Air Handling Unit) and their VAV units.</div>
 <br>
 ---
-### Social Media Analysis (Twitter) using Natural Language Processing
-[Social Media Analysis (Twitter) using Natural Language Processing](/pdf/sample_presentation.pdf)
+### Social Media (Twitter) Analysis using Natural Language Processing
+
+<div style="text-align: justify">Social media has become the main channel for people to obtain information. The goal of this project is to identify misinformation on social media comparing experts tweets with the non-expert tweets primarily on covid19 as the data has been extracted from March to September of 2020. The experts are identified as Twitter users who are professionals such as epidemiologists, scientists, professors whose tweets are considered as true/ accurate information. </div>
+<br>
+<div style="text-align: justify">Since the data we are working with is quite large to compare, topic modeling was performed to identify primary topics in both experts and non-experts datasets. The three methods used to find topics were LDA (Latent Dirichlet Allocation), TF-IDF (Term Frequency-Inverse Document Frequency) and TextRank. Here are some visualizations for TD-IDF using Tableau. </div>
+
+[TF-IDF Analysis for Bigrams](/pdf/tf-idf_bigrams.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
