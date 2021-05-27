@@ -13,7 +13,7 @@
 
 ---
 [Predict Diabetes with RF, SVM and KNN using Python](http://example.com/)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/likhitha-musku/Final-Term-Project/blob/main/Diabetes_Prediction_Classification.ipynb)
 #<img src=""/>
 
 ---
