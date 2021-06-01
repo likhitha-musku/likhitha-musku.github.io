@@ -16,7 +16,8 @@
 <div style="text-align: justify">The nodes/circles represent t-SNE x and y values obtained from dataset whereas the edges represent the relation or proximity that was observed from actual data of the building.</div>
 <br>
 <div style="text-align: justify">The data is from the Systems Engineering Building (SEB), https://bbd.labworks.org/, a medium size commercial building at PNNL. It contains multiple attributes related to energy consumption, with minute-level data, starting from 11/30/2018 5:09:00 PM upto 5/6/2020  4:59:00 PM, thus a total of 533,031 records. This dataset contains the information related to multiple AHU (Air Handling Unit) and their VAV units.</div>
-<br>
+
+
 ---
 ### Social Media (Twitter) Analysis using Natural Language Processing
 
@@ -42,7 +43,8 @@
 ### Market Basket Analysis using Python
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/likhitha-musku/Data-Mining/blob/main/Apriori.ipynb)
 <div style="text-align: justify">Apriori algorithm is used to find frequent item set mining and association rules for a sample transactional data. The support and confidence are calculated and are user-defined values. The support is an indication of how frequently the items appear in the data whereas confidence is a percentage value that shows how frequently the rule head occurs among all the groups containing the rule body. For example, confidence is calculated as the number of transactions that include both A and B divided by the number of transactions includes only product A. </div>
-<br>
+
+
 ---
 ### Portfolio Optimization for ETF stocks and Bonds using Python
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/likhitha-musku/Portfolio_Optimization/blob/main/Portfolio_Optimization_Project.ipynb)
