@@ -29,7 +29,7 @@
 
 <img src="images/Story 1.png?raw=true"/>
 <br>
-[The link to the Tableau Public dashboard showing Topic Modeling Analysis (https://public.tableau.com/shared/R2Z6H2673?:display_count=n&:origin=viz_share_link)
+The link to the Tableau Public dashboard showing Topic Modeling Analysis: https://public.tableau.com/shared/R2Z6H2673?:display_count=n&:origin=viz_share_link
 
 ---
 ### Predict Diabetes with RF, SVM and KNN using Python
