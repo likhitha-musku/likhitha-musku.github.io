@@ -19,11 +19,13 @@
 
 <div style="text-align: justify">Social media has become the main channel for people to obtain information. The goal of this project is to identify misinformation on social media comparing experts tweets with the non-expert tweets primarily on covid19 as the data has been extracted from March to September of 2020. The experts are identified as Twitter users who are professionals such as epidemiologists, scientists, professors whose tweets are considered as true/ accurate information. </div>
 <br>
-<div style="text-align: justify">Since the data we are working with is quite large to compare, topic modeling was performed to identify primary topics in both experts and non-experts datasets. The three methods used to find topics were LDA (Latent Dirichlet Allocation), TF-IDF (Term Frequency-Inverse Document Frequency) and TextRank. Here are some visualizations for TD-IDF using Tableau. </div>
+<div style="text-align: justify">Since the data we are working with is quite large to compare, topic modeling was performed to identify primary topics in both experts and non-experts datasets. The three methods used to find topics were LDA (Latent Dirichlet Allocation), TF-IDF (Term Frequency-Inverse Document Frequency) and TextRank. Below are some visualizations for TD-IDF using Tableau. Also, I have created a Tableau Public Dashboard to compare TF-IDF and TextRank frequency values for the top 50 LDA keywords separated by topics for each month. </div>
 
 [TF-IDF Analysis for Bigrams](/pdf/tf-idf_bigrams.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Story 1.png?raw=true"/>
+<br>
+<div style="text-align: justify">The link to the Tableau Public dashboard showing Topic Modeling Analysis: https://public.tableau.com/shared/R2Z6H2673?:display_count=n&:origin=viz_share_link </div>
 
 ---
 ### Predict Diabetes with RF, SVM and KNN using Python
