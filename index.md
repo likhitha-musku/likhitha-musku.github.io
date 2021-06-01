@@ -28,7 +28,7 @@
 
 <img src="images/Story 1.png?raw=true"/>
 <br>
-<div style="text-align: justify">The link to the Tableau Public dashboard showing Topic Modeling Analysis: https://public.tableau.com/shared/R2Z6H2673?:display_count=n&:origin=viz_share_link </div>
+[The link to the Tableau Public dashboard showing Topic Modeling Analysis (https://public.tableau.com/shared/R2Z6H2673?:display_count=n&:origin=viz_share_link)
 
 ---
 ### Predict Diabetes with RF, SVM and KNN using Python
@@ -41,9 +41,12 @@
 ---
 ### Market Basket Analysis using Python
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/likhitha-musku/Data-Mining/blob/main/Apriori.ipynb)
-
+<div style="text-align: justify">Apriori algorithm is used to find frequent item set mining and association rules for a sample transactional data. The support and confidence are calculated and are user-defined values. The support is an indication of how frequently the items appear in the data whereas confidence is a percentage value that shows how frequently the rule head occurs among all the groups containing the rule body. For example, confidence is calculated as the number of transactions that include both A and B divided by the number of transactions includes only product A. </div>
+<br>
 ---
-### Portfolio Optimization for ETF stocks and Bond using Python
+### Portfolio Optimization for ETF stocks and Bonds using Python
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/likhitha-musku/Portfolio_Optimization/blob/main/Portfolio_Optimization_Project.ipynb)
+<div style="text-align: justify">The motive for this project is to optimize Sharpe Ratio in the portfolio to understand the return of investment compared to its risk. The ratio is calculated by the average return earned in excess of the risk-free rate per unit of volatility or total risk. </div>
+<br>
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
