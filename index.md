@@ -23,13 +23,14 @@
 
 <div style="text-align: justify">Social media has become the main channel for people to obtain information. The goal of this project is to identify misinformation on social media comparing experts tweets with the non-expert tweets primarily on covid19 as the data has been extracted from March to September of 2020. The experts are identified as Twitter users who are professionals such as epidemiologists, scientists, professors whose tweets are considered as true/ accurate information. </div>
 <br>
-<div style="text-align: justify">Since the data we are working with is quite large to compare, topic modeling was performed to identify primary topics in both experts and non-experts datasets. The three methods used to find topics were LDA (Latent Dirichlet Allocation), TF-IDF (Term Frequency-Inverse Document Frequency) and TextRank. Below are some visualizations for TF-IDF Bigrams using Tableau. Also, I have created a Tableau Public Dashboard to compare TF-IDF and TextRank frequency values for the top 50 LDA keywords separated by topics for each month. </div>
+<div style="text-align: justify">Since the data we are working with is quite large to compare, topic modeling was performed to identify primary topics in both experts and non-experts datasets. The motive here is to compare three unsupervised learning approaches - TF-IDF, TextRank, and Topic Models and how consistent they are with respect to the content of the text. The outputs of TextRank and TF-IDF and TextRank would be used to enrich and refine the topics we obtained. The comparison was performed by doing a rank normalization for TF-IDF and TextRank.
+Below are some visualizations for TF-IDF Bigrams using Tableau. I have created a Tableau Public Dashboard to compare TF-IDF and TextRank frequencies/ranks for the Topic Model (LDA) keywords.</div>
 
 [TF-IDF Analysis for Bigrams](/pdf/tf-idf_bigrams.pdf)
 
-<img src="images/Story 1.png?raw=true"/>
+<img src="images/TM_Analysis.png?raw=true"/>
 <br>
-The link to the Tableau Public dashboard showing Topic Modeling Analysis: https://public.tableau.com/shared/R2Z6H2673?:display_count=n&:origin=viz_share_link
+The link to the Tableau Public dashboard showing Topic Modeling Analysis: https://public.tableau.com/views/TM_Analysis_V1/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ---
 ### Predict Diabetes with RF, SVM and KNN using Python
